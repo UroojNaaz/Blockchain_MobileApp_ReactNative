@@ -13,15 +13,15 @@ Star⭐ the repo if you like what you see😉.
 
 
 ## ✨ Features
-* **Cross-Platform: Runs smoothly on both Android and iOS devices.
+* Cross-Platform: Runs smoothly on both Android and iOS devices.
 
-* **User-Friendly Interface: Intuitive design that makes managing digital assets a breeze.
+* User-Friendly Interface: Intuitive design that makes managing digital assets a breeze.
 
-* **Real-Time Tracking: Keep tabs on your digital assets with real-time updates.
+* Real-Time Tracking: Keep tabs on your digital assets with real-time updates.
 
-* **Secure Transactions: Built with security best practices to ensure your assets are safe.
+* Secure Transactions: Built with security best practices to ensure your assets are safe.
 
-* **Blockchain Integration: Seamless interaction with blockchain networks to manage transactions and asset tracking.
+* Blockchain Integration: Seamless interaction with blockchain networks to manage transactions and asset tracking.
 
 
 ## Get started
