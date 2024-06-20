@@ -1,6 +1,6 @@
 # Blockchain Mobile App in React Native
 
-Explore our feature-rich blockchain mobile app developed using React Native. Seamlessly manage and track your digital assets with an intuitive and user-friendly interface. Dive into the code to see how React Native's cross-platform capabilities bring blockchain technology to your fingertips!
+Explore my feature-rich blockchain mobile app developed using React Native. Seamlessly manage and track your digital assets with an intuitive and user-friendly interface. Dive into the code to see how React Native's cross-platform capabilities bring blockchain technology to your fingertips!
 
 Star⭐ the repo if you like what you see😉.
 
